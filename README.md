@@ -6,7 +6,7 @@ This is a simple Book List App using Vanilla JavaScript and also I build-up loca
 
 (ii) CSS
 
-(iii) Vanilla javaScript
+(iii) Vanilla JavaScript
 
 # Project Demo:
 ![Screenshot from 2021-01-14 10-52-56](https://user-images.githubusercontent.com/45633928/104547044-c3ad7380-5657-11eb-9c14-69e9d302f2ff.png)
